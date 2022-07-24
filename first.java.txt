@@ -1,5 +1,3 @@
 java code
 
 This is fix for Ui issue
-
-java error fix
