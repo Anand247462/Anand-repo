@@ -4,4 +4,4 @@ This is fix for Ui issue
 
 anand
 
-the new ui realesed
+the new ui realesed version 1.2
