@@ -2,7 +2,7 @@ java code
 
 This is fix for Ui issue
 
-anand
+vijay
 
 the new ui realesed version 1.2
 
