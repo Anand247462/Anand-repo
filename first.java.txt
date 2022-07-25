@@ -4,6 +4,12 @@ This is fix for Ui issue
 
 vijay
 
+<<<<<<< HEAD
 the new ui realesed version 1.2
 
 the new java version 1.0
+=======
+the new ui realesed version 2.4
+
+
+>>>>>>> 97e9625991f4ba3eca92fca94048c5c292e510e0
